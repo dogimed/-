@@ -34,5 +34,16 @@
 ******
 ### jobs
 <img src="https://user-images.githubusercontent.com/106831414/172044061-b2d02308-68c6-48fa-8b01-6097dcc721c4.jpeg" width="640" height="480">
+
+[출처](https://www.leelab.co.kr/bbs/board.php?bo_table=linux&wr_id=10)
 ******
+### kill
+
++ kill명령어는 대부분 프로세스를 죽일때(종료시킬때) 사용합니다.
+
++ kill [-옵션 or 시그널] PID
+
+********
+### 메크로 in vim에디터
+
 
