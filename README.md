@@ -33,5 +33,6 @@
 [출처](https://arer.tistory.com/150)
 ******
 ### jobs
-![30](https://user-images.githubusercontent.com/106831414/172044061-b2d02308-68c6-48fa-8b01-6097dcc721c4.jpeg)
+<img src="https://user-images.githubusercontent.com/106831414/172044061-b2d02308-68c6-48fa-8b01-6097dcc721c4.jpeg" width="640" height="480">
+******
 
