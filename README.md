@@ -46,4 +46,10 @@
 ********
 ### 메크로 in vim에디터
 
+![화면 캡처 2022-06-05 184548](https://user-images.githubusercontent.com/106831414/172044823-b6e7ec00-e450-4d1f-ae8d-1780b89e8c1a.png)
+
+![화면 캡처 2022-06-05 184649](https://user-images.githubusercontent.com/106831414/172044835-77573bd1-7288-48db-afc9-6b9f9717d033.png)
+
+![화면 캡처 2022-06-05 184705](https://user-images.githubusercontent.com/106831414/172044842-48e45b6e-3f13-43ff-8fb8-35be88a17441.png)
+
 
